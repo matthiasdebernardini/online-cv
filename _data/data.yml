@@ -105,6 +105,7 @@ projects:
     inro: >
       A web5 bitcoin standards based password manager that lets you 
       securely derive more passwords from that initial seed.
+
     title: Learning by doing
     intro: >
       These are the books that I have used to self-learn about security
