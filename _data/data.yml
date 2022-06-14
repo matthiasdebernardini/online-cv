@@ -101,6 +101,10 @@ experiences:
         Added a hashlock contract that was evluated by the Simplicity Bit
         Machine as part of a Fedimint module
 projects:
+    title: Osmium Password Manager
+    inro: >
+      A web5 bitcoin standards based password manager that lets you 
+      securely derive more passwords from that initial seed.
     title: Learning by doing
     intro: >
       These are the books that I have used to self-learn about security
@@ -124,10 +128,7 @@ projects:
           link: "https://github.com/lnbook/lnbook"
           tagline: "A community made effort to help onboard
           new lightning devs"
-        - title: Osmium Password Manager
-          link: "https://crates.io/crates/osmium-pwm"
-          tagline: "A rust program that allows users to store a single
-          seed and derive all their passwords from a single seed"
+        
 
 skills:
     title: Skills &amp; Proficiency
