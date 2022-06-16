@@ -18,7 +18,6 @@ sidebar:
     linkedin: http://linkedin.com/in/matthias-debernardini-a5317759
     xing:
     github: matthiasdebernardini or keblek
-    _github: keblek
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -52,13 +51,11 @@ career-profile:
       and censorship-resistant systems regardless of their nature.
 
 experiences:
-    - role: Student
-      time: 2017 - 2021 (No Degree)
-      company: Vrije Universiteit Amsterdam
+    - role: Teaching Assistant
+      time: 2017 - 2021 
+      company: Honors Program for Theoretical Computer Science at the Vrije Universiteit in Amsterdam, NL
       details: |
-        Honors Program in Theoretical Computer Science Track
-        Teaching Assistant
-        (helped with grading, labs, explaining concepts and course material)
+        Assisted with grading, labs, explaining concepts and course material
         for Computer Organization, Web Technologies and Computer Networks.
     - role: Community member
       time: 2018 - Present
@@ -73,7 +70,7 @@ experiences:
         Ran a node, routed payments got familiar with the tooling.
           - Built my own node helper software
     - role: LNbook contributor
-      time: 2020 - 2021
+      time: 2020 - Present
       company:
       details: |
         Mastering Lightning is an upcoming book about the lightning network
