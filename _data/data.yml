@@ -100,6 +100,11 @@ experiences:
       details: |
         Added a hashlock contract that was evluated by the Simplicity Bit
         Machine as part of a Fedimint module
+     - role: Osmium Founder
+       time: June 2022
+       company: Osmium Inc
+       details: |
+        A web64 capable password manager, hosted on crates.io
 projects:
     title: Osmium Password Manager
     inro: >
