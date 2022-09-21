@@ -97,11 +97,11 @@ experiences:
       details: |
         Added a hashlock contract that was evluated by the Simplicity Bit
         Machine as part of a Fedimint module
-    - role: Osmium Founder
+    - role: Osmium Coldstarter
       time: June 2022
       company: crates.io/crates/osmium-pwm
       details: |
-        A web64 capable password manager, hosted on crates.io, that uses pubkey auth to make lightning powered automatic backups.
+        A web64 capable password manager, hosted on crates.io, that will eventually use pubkey auth to make lightning powered automatic backups.
 projects:
     title: Osmium Password Manager
     intro: >
